@@ -4,7 +4,7 @@ A cross-browser extension to seamlessly download chapter images from popular man
 
 > **Stores Status:**
 > * **Firefox Add-ons:** [Soon]
-> * **Edge Add-ons:** ([https://microsoftedge.microsoft.com/addons/detail/atsumaru-mangadot-mangago/bngfpihjnbbchghmdbmdfefjejjddnhe])
+> * **Edge Add-ons:** [Install on Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/atsumaru-mangadot-mangago/bngfpihjnbbchghmdbmdfefjejjddnhe)
 
 ---
 
