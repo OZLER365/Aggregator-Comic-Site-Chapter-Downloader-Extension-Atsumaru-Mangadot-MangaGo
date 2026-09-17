@@ -3,7 +3,7 @@
 A cross-browser extension to seamlessly download chapter images from popular manga aggregator sites. It packages the downloaded images into a **Native ZIP file** right within the browser. 
 
 > **Stores Status:**
-> * **Firefox Add-ons:** [Soon]
+> * **Firefox Add-ons:** [Install on Firefox Add-ons](https://addons.mozilla.org/en-US/android/addon/atsumangadotmangagodownloader/)
 > * **Edge Add-ons:** [Install on Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/atsumaru-mangadot-mangago/bngfpihjnbbchghmdbmdfefjejjddnhe)
 
 ---
