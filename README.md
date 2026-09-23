@@ -63,3 +63,4 @@ For queries, bug reports, or feature requests:
 
 **⚠️ Disclaimer:**  
 *This extension is strictly for educational purposes. Please do not repost or redistribute the downloaded images. Support the original creators and platforms where possible.*
+*Mobile supported but only chromium browsers
